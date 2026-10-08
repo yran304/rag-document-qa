@@ -1,0 +1,10 @@
+Atlas Product Launch Brief
+
+Atlas is Northstar Analytics' reporting workspace for operations teams. Its first public release is scheduled for October 15, 2026. The initial release includes scheduled dashboards, CSV export, and role-based viewer and editor access.
+
+The launch success metric is 40 active customer workspaces by the end of the first quarter after launch. The product team will review activation, weekly active users, and dashboard export usage every Friday.
+
+Atlas does not include real-time alerting in its first release. Real-time alerting is planned for a later phase and should not be promised to customers before it is released.
+
+For launch support, customers should use the support portal. The support team aims to respond to priority-one incidents within one hour during business hours.
+

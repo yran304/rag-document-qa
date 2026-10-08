@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/index.faiss
+data/chunks.json
+evaluation/results/
+
+# OS / editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Original Word doc, not meant for the public repo
+*.docx
+

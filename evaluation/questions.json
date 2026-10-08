@@ -1,0 +1,14 @@
+[
+  {"question": "Which days are employees expected in the Toronto office?", "expected_source": "employee_handbook.txt", "answer_keywords": ["Tuesday", "Thursday"]},
+  {"question": "How many paid vacation days do full-time employees receive?", "expected_source": "employee_handbook.txt", "answer_keywords": ["20"]},
+  {"question": "When should a vacation request longer than five days be submitted?", "expected_source": "employee_handbook.txt", "answer_keywords": ["four weeks"]},
+  {"question": "What is the client dinner reimbursement limit per attendee?", "expected_source": "employee_handbook.txt", "answer_keywords": ["75", "CAD"]},
+  {"question": "How quickly must an expense receipt be submitted?", "expected_source": "employee_handbook.txt", "answer_keywords": ["30 days"]},
+  {"question": "Where should a suspected phishing email be reported?", "expected_source": "employee_handbook.txt", "answer_keywords": ["security@northstar.example"]},
+  {"question": "What is the annual professional-development budget?", "expected_source": "employee_handbook.txt", "answer_keywords": ["1,200", "CAD"]},
+  {"question": "What date is Atlas scheduled for public release?", "expected_source": "product_launch.txt", "answer_keywords": ["October 15, 2026"]},
+  {"question": "What is the Atlas launch success metric?", "expected_source": "product_launch.txt", "answer_keywords": ["40", "workspaces"]},
+  {"question": "Is real-time alerting available in Atlas's first release?", "expected_source": "product_launch.txt", "answer_keywords": ["not", "real-time alerting"]},
+  {"question": "What response target applies to priority-one support incidents?", "expected_source": "product_launch.txt", "answer_keywords": ["one hour"]}
+]
+
